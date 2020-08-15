@@ -9,3 +9,6 @@ All operations are performed on the data sets in the repository.
 In the zomato-eda.ipynb , we have used the kaggle dataset of zomato-banglore-restaurents.
 
 https://www.kaggle.com/kuldeepdhadhwal/zomato-eda
+
+
+dataset link on kaggle :->  https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
