@@ -11,4 +11,4 @@ In the zomato-eda.ipynb , we have used the kaggle dataset of zomato-banglore-res
 https://www.kaggle.com/kuldeepdhadhwal/zomato-eda
 
 
-dataset link on kaggle :->  https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+dataset link on kaggle   https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
