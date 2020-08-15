@@ -4,4 +4,4 @@ This is a repository , where we can find EDA over good data sets.
 2. Data Cleaning.
 3. Data Visualization
 
-All Steps are done in this repository.
+All operations are performed on the data sets in the repository.
